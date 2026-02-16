@@ -45,7 +45,8 @@ This project helps businesses:
 - Make data-driven fraud prevention strategies
 
 ## Dashboard Preview
-<img width="1156" height="633" alt="image" src="https://github.com/user-attachments/assets/f8f18566-70a6-4af9-a814-b1b979bd2885" />
+<img width="1150" height="640" alt="image" src="https://github.com/user-attachments/assets/54d5fdaf-7d62-4ecf-aa2e-65df6eda6f7e" />
+
 
 
 ## Thank you !
