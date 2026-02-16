@@ -47,4 +47,4 @@ This project helps businesses:
 ## Dashboard Preview
 <img width="1137" height="628" alt="image" src="https://github.com/user-attachments/assets/abf9961b-ec8c-46a0-9ccf-8e6d95108812" />
 
-**## Thank you !**
+## Thank you !
